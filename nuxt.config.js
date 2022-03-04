@@ -38,11 +38,16 @@ export default {
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
     manifest: {
+      name: "One pic a day",
       lang: "fr",
+      theme_color: "#e5ded6",
+      background_color: "#e5ded6",
+      short_name: "OnePicADay",
+      display: "standalone",
     },
     icon: {
-      source: "/icon.png",
-      fileName: "/icon.png",
+      source: "/testicon.png",
+      fileName: "/testicon.png",
     },
   },
 
