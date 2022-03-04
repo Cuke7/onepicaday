@@ -38,16 +38,16 @@ export default {
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
     manifest: {
-      name: "One pic a day",
+      name: "Quotidie",
       lang: "fr",
       theme_color: "#e5ded6",
       background_color: "#e5ded6",
-      short_name: "OnePicADay",
+      short_name: "Quotidie",
       display: "standalone",
     },
     icon: {
-      source: "/testicon.png",
-      fileName: "/testicon.png",
+      source: "/quotidieIcon.png",
+      fileName: "quotidieIcon.png",
     },
   },
 
