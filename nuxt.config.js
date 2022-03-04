@@ -41,8 +41,8 @@ export default {
       lang: "fr",
     },
     icon: {
-      source: "/icon.jpg",
-      fileName: "/icon.jpg",
+      source: "/icon2.jpg",
+      fileName: "/icon2.jpg",
     },
   },
 
