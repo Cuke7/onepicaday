@@ -46,8 +46,8 @@ export default {
       display: "standalone",
     },
     icon: {
-      source: "/quotidieIcon.png",
-      fileName: "quotidieIcon.png",
+      source: "/icon512.png",
+      fileName: "icon512.png",
     },
   },
 
