@@ -3,8 +3,8 @@ import colors from "vuetify/es5/util/colors";
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: "%s - onepicaday",
-    title: "onepicaday",
+    titleTemplate: "1day1Louis",
+    title: "1day1Louis",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
@@ -38,11 +38,11 @@ export default {
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
     manifest: {
-      name: "Quotidie",
+      name: "1day1Louis",
       lang: "fr",
       theme_color: "#e5ded6",
       background_color: "#e5ded6",
-      short_name: "Quotidie",
+      short_name: "1day1Louis",
       display: "standalone",
     },
     icon: {
