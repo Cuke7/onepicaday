@@ -19,7 +19,7 @@ export default {
 
   mounted() {
     let oneDay = 24 * 60 * 60 * 1000; // hours*minutes*seconds*milliseconds
-    let firstDate = new Date(2022, 2, 4);
+    let firstDate = new Date(2022, 2, 3);
     let secondDate = new Date();
 
     this.days = Math.round(Math.abs((firstDate - secondDate) / oneDay));
